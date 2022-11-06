@@ -1,0 +1,3 @@
+C:/Users/abbyc/Desktop/cppgunzip/build/CMakeFiles/ccc.dir
+C:/Users/abbyc/Desktop/cppgunzip/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/abbyc/Desktop/cppgunzip/build/CMakeFiles/ZERO_CHECK.dir

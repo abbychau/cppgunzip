@@ -1,0 +1,26 @@
+# CMake generation dependency list for this directory.
+C:/Users/abbyc/Desktop/cppgunzip/CMakeLists.txt
+C:/Users/abbyc/Desktop/cppgunzip/build/CMakeFiles/3.24.3/CMakeCCompiler.cmake
+C:/Users/abbyc/Desktop/cppgunzip/build/CMakeFiles/3.24.3/CMakeCXXCompiler.cmake
+C:/Users/abbyc/Desktop/cppgunzip/build/CMakeFiles/3.24.3/CMakeRCCompiler.cmake
+C:/Users/abbyc/Desktop/cppgunzip/build/CMakeFiles/3.24.3/CMakeSystem.cmake
+C:/Users/abbyc/Desktop/cppgunzip/build/conanbuildinfo.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/CMakeCInformation.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/CMakeCXXInformation.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/CMakeGenericSystem.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/CMakeParseArguments.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/CMakeRCInformation.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/Compiler/MSVC-C.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/Compiler/MSVC.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/Platform/Windows-MSVC-C.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/Platform/Windows.cmake
+E:/bin/cmake-3.24.3-windows-x86_64/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake

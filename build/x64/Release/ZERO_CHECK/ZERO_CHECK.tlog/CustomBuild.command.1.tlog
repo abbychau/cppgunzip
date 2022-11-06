@@ -1,0 +1,10 @@
+^C:\USERS\ABBYC\DESKTOP\CPPGUNZIP\BUILD\CMAKEFILES\F1FC346CE8667581F4278A9B8F81DA87\GENERATE.STAMP.RULE
+setlocal
+E:\bin\cmake-3.24.3-windows-x86_64\bin\cmake.exe -SC:/Users/abbyc/Desktop/cppgunzip -BC:/Users/abbyc/Desktop/cppgunzip/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/abbyc/Desktop/cppgunzip/build/ccc.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
